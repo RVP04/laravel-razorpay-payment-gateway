@@ -1,0 +1,21 @@
+{
+    "name": "vidhyaprakash/razorpay-payment-gateway",
+    "description": "This package will help developers to intgerate the razorpay payment gateway to your existing application.",
+    "type": "library",
+    "require": {
+        "razorpay/razorpay": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vidhyaprakash\\RazorpayPaymentGateway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vidhya Prakash",
+            "email": "vidhyaprakash85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
