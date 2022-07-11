@@ -1,5 +1,7 @@
 # Razor Pay Payment Gateway Package
 
+[![Issues] (https://img.shields.io/github/issues/RVP04/laravel-razorpay-payment-gateway.svg)]
+
 ## Steps to usage the package
 
 This will help developers to integerate RazorPay Payment Gateway With our Existing Application. Lets see how to use our package. 
