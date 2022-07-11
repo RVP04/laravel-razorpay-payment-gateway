@@ -1,6 +1,9 @@
 # Razor Pay Payment Gateway Package
 
 [![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 
 ## Steps to usage the package
 
@@ -39,5 +42,9 @@ The above url will verify the payment with razorpay and also add the payment inf
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[forks-shield]: https://img.shields.io/github/forks/RVP04/laravel-razorpay-payment-gateway.svg?style=for-the-badge
+[forks-url]: https://github.com/RVP04/laravel-razorpay-payment-gateway/network/members
+[stars-shield]: https://img.shields.io/github/stars/RVP04/laravel-razorpay-payment-gateway.svg?style=for-the-badge
+[stars-url]: https://github.com/RVP04/laravel-razorpay-payment-gateway/stargazers
 [issues-shield]: https://img.shields.io/github/issues/RVP04/laravel-razorpay-payment-gateway.svg?style=for-the-badge
 [issues-url]: https://github.com/RVP04/laravel-razorpay-payment-gateway/issues
