@@ -17,5 +17,12 @@
             "email": "vidhyaprakash85@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vidhyaprakash\\RazorpayPaymentGateway\\RazorpayServiceProvider"
+            ]
+        }
+    }
 }
